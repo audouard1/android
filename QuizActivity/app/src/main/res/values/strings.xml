@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizActivity</string>
+    <string name="yes">Vrai</string>
+    <string name="no">Faux</string>
+    <string name="good">Bonne réponse</string>
+    <string name="bad">Mauvaise réponse</string>
+    <string name="question1">Les escargots sont terriblement lents.</string>
+    <string name="question2">Oui ou non ?</string>
+    <string name="win">Tu as gagnié !!</string>
+    <string name="loose">Tu as perdu !!</string>
+    <string name="rePlay">Rejouer</string>
+</resources>
